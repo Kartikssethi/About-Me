@@ -3,7 +3,7 @@
 
 ---
 
-🔭 I’m currently building intelligent systems and exploring Generative AI  
+🔭 I’m currently building intelligent systems and exploring Generative AI.
 💬 Ask me about:  
 `Python`, `JavaScript`, `Java`, `C`, `C++`, `OpenCV`, `MediaPipe`, `Flask`, `FastAPI`, `Supabase`, `React`, `Next.js`, `ML/DL`, or anything in tech  
 📫 Reach me at: **kartiks.alterego@gmail.com**  
